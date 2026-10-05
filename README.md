@@ -2,7 +2,7 @@
 
 Machine Learning Engineer | Data Engineer | Snowflake Developer
 ---
-Thank you so much for taking the time to visit my Portfolio. I'm Manjusha, a results-driven Machine Learning Engineer with expertise in designing, developing, and optimizing machine learning models, data pipelines, and AI-driven solutions. Passionate about transforming complex data into actionable insights and delivering scalable, real-world applications using modern cloud and data engineering technologies.
+Welcome to my GitHub Portfolio. I'm Manjusha, a results-driven Machine Learning Engineer with expertise in designing, developing, and optimizing machine learning models, data pipelines, and AI-driven solutions. I'm passionate about transforming complex data into actionable insights and delivering scalable, real-world applications using modern cloud and data engineering technologies.
 
 ## About Me
 - 🎓 MSc in Artificial Intelligence
